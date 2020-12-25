@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Recently, I Use 👩‍💻 **JavaScript** most.
+요즘에는 JavaScript를 가장 많이 사용하고 있고 열심히 공부하고 있어요. [여기](kuongee.github.io/my-js)
 
 <!--
 **kuongee/kuongee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
